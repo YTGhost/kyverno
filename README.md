@@ -1,4 +1,5 @@
 # Kyverno [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Kubernetes%20Native%20Policy%20Management.%20No%20new%20language%20required%21&url=https://github.com/kyverno/kyverno/&hashtags=kubernetes,devops)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYTGhost%2Fkyverno.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYTGhost%2Fkyverno?ref=badge_shield)
 
 **Kubernetes Native Policy Management 🎉**
 
@@ -64,3 +65,7 @@ Kyverno is built and maintained by our growing community of contributors!
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYTGhost%2Fkyverno.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYTGhost%2Fkyverno?ref=badge_large)
